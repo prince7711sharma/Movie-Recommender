@@ -21,7 +21,6 @@ This is a **Movie Recommendation System** built using **Python** and **Machine L
   - `scikit-learn`: For vectorization and similarity computation.
   - `pandas`: For data handling and preprocessing.
   - `numpy`: For numerical computations.
-  - `Flask` (optional): To build a web interface for the recommendation system.
   - `streamlit` (optional): For creating a simple user-friendly UI.
 
 ---
